@@ -28,4 +28,4 @@ Parameters:
 ### Things to note
 * If a user's profile already has an existing `prefs.txt` file it will be replaced.
 
-[More detailed documentation](https://thedxt.ca/)
+[More detailed documentation]([https://thedxt.ca/](https://thedxt.ca/2025/01/horizon-client-prefs-txt/))
