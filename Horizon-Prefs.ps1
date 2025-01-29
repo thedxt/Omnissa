@@ -10,7 +10,7 @@
 #
 # Parameters:
 #
-#   -$prefs_b64 <string>
+#   -prefs_b64 <string>
 #       Base64 of the Horizon prefs file
 #       Default: Connection server horizon.company.com
 #
