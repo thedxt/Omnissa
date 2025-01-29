@@ -6,7 +6,7 @@ Scripts related to Omnissa
 Horizon-Prefs deploys a Base64 encoded verions of `prefs.txt` to all users, a single user, or both.
 
 Parameters:
-* `-$prefs_b64`
+* `-prefs_b64`
   * Base64 of the Horizon prefs file
   * Default: Connection server horizon.company.com
 * `-prefs_location`
